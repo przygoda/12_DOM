@@ -1,0 +1,5 @@
+
+/* Bitte die Befehle über die Konsole eingeben 
+    Datei ist nicht mit dem HTML-Dokument verbunden
+*/
+
